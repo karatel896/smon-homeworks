@@ -7,8 +7,7 @@
 
 ### Задание 2
 `Резервное копирование с помощью "rsync":
-<img width="839" height="185" alt="image" src="https://github.com/user-attachments/assets/62a1eb34-a634-4436-b8bf-62452b0366cc" />
-<img width="1212" height="41" alt="image" src="https://github.com/user-attachments/assets/369b850a-c2b2-4449-89d2-0d665667e89b" />
-`
+<img width="839" height="185" alt="image" src="https://github.com/user-attachments/assets/ba1bfda6-1d82-469c-b03e-25f1226e3243" />
+<img width="1212" height="41" alt="image" src="https://github.com/user-attachments/assets/93ef8f85-918e-4cd7-a3b5-148cf0d16b1e" />
 Снимок экрана файла "my_crontab.txt":
 <img width="1902" height="1017" alt="image" src="https://github.com/user-attachments/assets/806bff5f-5ff3-48c5-8446-60b6ee24e6ec" />
