@@ -1,31 +1,14 @@
-# Домашние задания по модулю «Мониторинг» Фролов Матвей.
-Задание № 1
-<img width="1294" height="436" alt="изображение" src="https://github.com/user-attachments/assets/cb8445ca-721b-4b68-8b5a-8523d6dfb0be" />
-Задание № 2
-<img width="1294" height="436" alt="изображение" src="https://github.com/user-attachments/assets/92015c01-4ccc-4c30-a668-2f1c815b1ea8" />
-Задание № 3
-<img width="1292" height="539" alt="изображение" src="https://github.com/user-attachments/assets/53655995-83f7-466f-be9b-5746a3da39f0" />
-<img width="1292" height="539" alt="изображение" src="https://github.com/user-attachments/assets/2aa1fad8-1bf0-4db4-8283-ca258058dc05" />
-Задание № 4
-<img width="1292" height="646" alt="изображение" src="https://github.com/user-attachments/assets/8dc6db60-d18a-4253-ab1f-ce5b7622b3b7" />
-Задание № 5
-<img width="1292" height="646" alt="изображение" src="https://github.com/user-attachments/assets/5f82dc88-46ea-412e-9a8d-262b5bbded8c" />
+@@ -1,4 +1,4 @@
+# Домашнее задание к занятию "`Резервное копирование`" - `Фролов Матвей`
+### Задание 1
+Была составлена команда: rsync -avc --delete --exclude='.*/' ~/ /tmp/backup/
+Результат выполнения:
+<img width="798" height="280" alt="image" src="https://github.com/user-attachments/assets/efc89a61-077d-456e-8c73-6999929dd3fe" />
 
-В этом репозитории расположены ваши домашние задания к каждой лекции. 
-
-Обязательны к выполнению задачи без звездочек. Их нужно выполнить, чтобы получить зачёт.
-
-Задачи со звёздочкой (*) — дополнительные задачи или задачи повышенной сложности. Их выполнять не обязательно, но они помогут вам глубже понять тему.
-
-Любые вопросы по решению задач задавайте в чате учебной группы. Ссылку вы найдёте в письме на вашей электронной почте.
-
-
-1. [Обзор систем ИТ-мониторинга](hw-01-new.md)
-
-2. [Система мониторинга Zabbix](hw-02.md)
-
-3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
-
-4. [Система мониторинга Prometheus](hw-04.md)
-
-5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
+### Задание 2
+`Резервное копирование с помощью "rsync":
+<img width="839" height="185" alt="image" src="https://github.com/user-attachments/assets/62a1eb34-a634-4436-b8bf-62452b0366cc" />
+<img width="1212" height="41" alt="image" src="https://github.com/user-attachments/assets/369b850a-c2b2-4449-89d2-0d665667e89b" />
+`
+Снимок экрана файла "my_crontab.txt":
+<img width="1902" height="1017" alt="image" src="https://github.com/user-attachments/assets/806bff5f-5ff3-48c5-8446-60b6ee24e6ec" />
